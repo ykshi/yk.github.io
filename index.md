@@ -17,7 +17,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 ### 2020
 
-[Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning](https://arxiv.org/pdf/1905.01509)
+* [Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning](https://arxiv.org/pdf/1905.01509)
 
 
 **Yukai SHI**, Li Guanbin, Qingxing Cao, Keze Wang, Liang Lin
@@ -25,7 +25,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*
 
 
-[DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution](https://arxiv.org/pdf/2002.11079.pdf)
+* [DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution](https://arxiv.org/pdf/2002.11079.pdf)
 
 
 **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
