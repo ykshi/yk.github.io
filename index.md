@@ -36,6 +36,8 @@ Email: ykshi.1991 AT foxmail DOT com
   **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
 
   *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf) [[Code]](https://github.com/ykshi/DDet)
+  
+  We found dual-way mechanism bring a significant quality improvement on real-world image pair
 
 ### 2019
 
