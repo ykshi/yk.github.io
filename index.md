@@ -58,9 +58,9 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 *  Attention-aware face hallucination via deep reinforcement learning
 
-  Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
+   Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
-  *IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Attention-Aware_Face_Hallucination_CVPR_2017_paper.pdf)
+   *IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Attention-Aware_Face_Hallucination_CVPR_2017_paper.pdf)
 
 ### 2016
 
