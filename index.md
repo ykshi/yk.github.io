@@ -18,7 +18,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 [Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning](https://arxiv.org/pdf/1905.01509)
 
 
-**Yukai Shi**, Li Guanbin, Qingxing Cao, Keze Wang, Liang Lin
+**Yukai SHI**, Li Guanbin, Qingxing Cao, Keze Wang, Liang Lin
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*
 
@@ -30,3 +30,35 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 *IEEE Signal Processing Letters(**SPL**), 2020*
 
+
+[Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network](https://arxiv.org/pdf/1904.05802)
+
+Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
+
+*IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2019*
+
+
+[Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672893)
+
+**Yukai SHI**, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin
+
+*IEEE Access, 2019*
+
+[Structure-preserving image super-resolution via contextualized multitask learning](https://arxiv.org/pdf/1707.08340.pdf)
+
+**Yukai SHI**, Keze Wang, Chongyu Chen, Li Xu, Liang Lin
+
+*IEEE Transactions on Multimedia(**T-MM**), 2017*
+
+
+[Attention-aware face hallucination via deep reinforcement learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Attention-Aware_Face_Hallucination_CVPR_2017_paper.pdf)
+
+Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
+
+* IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*
+
+[Local-and holistic-structure preserving image super resolution via deep joint component learning](https://arxiv.org/pdf/1607.07220.pdf)
+
+**Yukai SHI**, Keze Wang, Li Xu, Liang Lin
+
+* IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2016*
