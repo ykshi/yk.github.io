@@ -33,7 +33,7 @@ Email: ykshi.1991 AT foxmail DOT com
 * DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution
 
 
-  **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
+  **Yukai SHI**, Haoyu Zhong, Zhijing Yang, Xiaojun Yang, Liang Lin.
 
   *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf) [[Code]](https://github.com/ykshi/DDet)
     
