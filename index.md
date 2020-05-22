@@ -25,7 +25,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
   *IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*. [[PDF]](https://arxiv.org/pdf/1905.01509) [[Code]](https://github.com/ykshi/facehallucination)
 
 
-* [DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution]
+* DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution
 
 
   **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
@@ -34,7 +34,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 ### 2019
 
-* [Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network]
+* Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network
 
   Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
 
@@ -49,14 +49,14 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 ### 2017
 
-* [Structure-preserving image super-resolution via contextualized multitask learning]
+* Structure-preserving image super-resolution via contextualized multitask learning
 
   **Yukai SHI**, Keze Wang, Chongyu Chen, Li Xu, Liang Lin
 
   *IEEE Transactions on Multimedia(**T-MM**), 2017*. [[PDF]](https://arxiv.org/pdf/1707.08340.pdf)
 
 
-*  [Attention-aware face hallucination via deep reinforcement learning]
+*  Attention-aware face hallucination via deep reinforcement learning
 
   Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
@@ -64,7 +64,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 ### 2016
 
-* [Local-and holistic-structure preserving image super resolution via deep joint component learning]
+* Local-and holistic-structure preserving image super resolution via deep joint component learning
 
   **Yukai SHI**, Keze Wang, Li Xu, Liang Lin
 
