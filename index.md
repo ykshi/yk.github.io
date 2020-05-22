@@ -8,6 +8,9 @@ I am currently a lecturer at Guangdong University of Technology(GDUT). Before th
 
 During my postgraduate study, I am fortunately to have a visiting experience at [the University of Sydney](https://www.sydney.edu.au/) and [Microsoft Research Asia](https://jingdongwang2017.github.io/) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/) and [Dr. Jingdong Wang](https://jingdongwang2017.github.io/), respectively. 
 
+
+Email: ykshi.1991 AT foxmail DOT com
+
 ## News
 [2020-05] Personal page online!
 
@@ -41,7 +44,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
   *IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2019*. [[PDF]](https://arxiv.org/pdf/1904.05802) [[Code]](https://github.com/xzwlx/Difficulty-SR)
 
 
-*  [Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation]
+*  Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation
 
    **Yukai SHI**, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin
 
