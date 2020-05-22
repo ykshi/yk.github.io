@@ -3,17 +3,19 @@ layout: default
 ---
 
 
-### Yukai SHI(施煜锴)
+## Yukai SHI(施煜锴)
 I am currently a lecturer at Guangdong University of Technology(GDUT). Before that, I received my Ph.D degree in computer science from [HCP Laboratory](http://www.sysu-hcp.net/home/), Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/). My research interests include computer vision and machine learning.
 
 During my postgraduate study, I am fortunately to have a visiting experience at [the University of Sydney](https://www.sydney.edu.au/) and [Microsoft Research Asia](https://jingdongwang2017.github.io/) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/) and [Dr. Jingdong Wang](https://jingdongwang2017.github.io/), respectively. 
 
-### News
+## News
 [2020-05] Personal page online!
 
 
 
-### Publication
+## Publication
+
+### 2020
 
 [Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning](https://arxiv.org/pdf/1905.01509)
 
@@ -30,6 +32,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 *IEEE Signal Processing Letters(**SPL**), 2020*
 
+### 2019
 
 [Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network](https://arxiv.org/pdf/1904.05802)
 
@@ -44,6 +47,8 @@ Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
 
 *IEEE Access, 2019*
 
+### 2017
+
 [Structure-preserving image super-resolution via contextualized multitask learning](https://arxiv.org/pdf/1707.08340.pdf)
 
 **Yukai SHI**, Keze Wang, Chongyu Chen, Li Xu, Liang Lin
@@ -56,6 +61,8 @@ Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
 Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
 * IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*
+
+### 2016
 
 [Local-and holistic-structure preserving image super resolution via deep joint component learning](https://arxiv.org/pdf/1607.07220.pdf)
 
