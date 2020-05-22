@@ -22,7 +22,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
   **Yukai SHI**, Li Guanbin, Qingxing Cao, Keze Wang, Liang Lin
 
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*. [[PDF]](https://arxiv.org/pdf/1905.01509) [[Code]](https://github.com/ykshi/DDet)
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*. [[PDF]](https://arxiv.org/pdf/1905.01509) [[Code]](https://github.com/ykshi/facehallucination)
 
 
 * [DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution]
@@ -30,7 +30,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
   **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
 
-  *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf)
+  *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf) [[Code]](https://github.com/ykshi/DDet)
 
 ### 2019
 
@@ -38,7 +38,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
   Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
 
-  *IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2019*. [[PDF]](https://arxiv.org/pdf/1904.05802)
+  *IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2019*. [[PDF]](https://arxiv.org/pdf/1904.05802) [[Code]](https://github.com/xzwlx/Difficulty-SR)
 
 
 *  [Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation]
