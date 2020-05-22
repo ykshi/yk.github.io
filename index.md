@@ -60,7 +60,7 @@ Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
 
 Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
-* IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*
+*IEEE Conference on Computer Vision and Pattern Recognition(**CVPR**), 2017*
 
 ### 2016
 
@@ -68,4 +68,4 @@ Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
 **Yukai SHI**, Keze Wang, Li Xu, Liang Lin
 
-* IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2016*
+*IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2016*
