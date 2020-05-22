@@ -3,6 +3,11 @@ layout: default
 ---
 
 
-### Support or Contact
+### Yukai SHI
+I am currently a lecturer at Guangdong University of Technology(GDUT). I received my PhD degree in computer science from the Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/). My research interests include computer vision and machine learning.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+During my postgraduate study, I am fortunately to have a visiting experience at [the University of Sydney](https://www.sydney.edu.au/) and [Microsoft Research Asia](https://jingdongwang2017.github.io/) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/) and [Dr. Jingdong Wang](https://jingdongwang2017.github.io/), respectively. 
+
+### News
+[2020-05] Personal page online!
+
