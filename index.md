@@ -37,7 +37,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
   *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf) [[Code]](https://github.com/ykshi/DDet)
     
-  <span style="color:blue"> *We found dual-way mechanism bring a significant quality improvement on real-world image pair* text</span>
+  <span style="color:red"> *We found dual-way mechanism bring a significant quality improvement on real-world image pair* text</span>
 
 ### 2019
 
