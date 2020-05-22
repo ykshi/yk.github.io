@@ -14,10 +14,19 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 
 ### Publication
+
+Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning
+
+
+**Yukai Shi**, Li Guanbin, Qingxing Cao, Keze Wang, Liang Lin
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence(**T-PAMI**), 2020*
+
+
 DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution
 
-*IEEE Signal Processing Letters, 2020*
 
 **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
 
+*IEEE Signal Processing Letters(**SPL**), 2020*
 
