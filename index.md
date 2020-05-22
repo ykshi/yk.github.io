@@ -43,9 +43,9 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 *  [Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation]
 
-  **Yukai SHI**, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin
+   **Yukai SHI**, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin
 
-  *IEEE Access, 2019*. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672893)
+   *IEEE Access, 2019*. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8672893)
 
 ### 2017
 
