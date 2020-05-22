@@ -53,7 +53,7 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
   **Yukai SHI**, Keze Wang, Chongyu Chen, Li Xu, Liang Lin
 
-  *IEEE Transactions on Multimedia(**T-MM**), 2017*. [[PDF]](https://arxiv.org/pdf/1707.08340.pdf)
+  *IEEE Transactions on Multimedia(**T-MM**), 2017*. [[PDF]](https://arxiv.org/pdf/1707.08340.pdf) [[Code]](https://github.com/ykshi/SPNet)
 
 
 *  Attention-aware face hallucination via deep reinforcement learning
