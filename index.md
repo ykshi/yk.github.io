@@ -39,7 +39,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
 * Difficulty-Aware Image Super Resolution via Deep Adaptive Dual-Network
 
-  Jinghui Qin, Ziwei Xie, **Yukai Shi**, Wushao Wen
+  Jinghui Qin, Ziwei Xie, **Yukai SHI**, Wushao Wen
 
   *IEEE International Conference on Multimedia and Expo (**ICME**), Oral, 2019*. [[PDF]](https://arxiv.org/pdf/1904.05802) [[Code]](https://github.com/xzwlx/Difficulty-SR)
 
