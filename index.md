@@ -52,14 +52,14 @@ Email: ykshi.1991 AT foxmail DOT com
 
 ### 2017
 
-* Structure-preserving image super-resolution via contextualized multitask learning
+* Structure-preserving Image Super-resolution via Contextualized Multitask Learning
 
   **Yukai SHI**, Keze Wang, Chongyu Chen, Li Xu, Liang Lin
 
   *IEEE Transactions on Multimedia(**T-MM**), 2017*. [[PDF]](https://arxiv.org/pdf/1707.08340.pdf) [[Code]](https://github.com/ykshi/SPNet)
 
 
-*  Attention-aware face hallucination via deep reinforcement learning
+*  Attention-aware Face Hallucination via Deep Reinforcement Learning
 
    Qingxing Cao, Liang Lin, **Yukai SHI**, Xiaodan Liang, Guanbin Li
 
@@ -67,7 +67,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
 ### 2016
 
-* Local-and holistic-structure preserving image super resolution via deep joint component learning
+* Local- and Holistic- Structure Preserving Image Super Resolution via Deep Joint Component Learning
 
   **Yukai SHI**, Keze Wang, Li Xu, Liang Lin
 
