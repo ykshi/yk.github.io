@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+
+
 ## Yukai SHI  施煜锴
 I am currently a lecturer at Guangdong University of Technology(GDUT). Before that, I received my Ph.D degree in computer science from [HCP Laboratory](http://www.sysu-hcp.net/home/), Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/). My research interests include computer vision and machine learning.
 
