@@ -15,7 +15,9 @@ During my postgraduate study, I am fortunately to have a visiting experience at 
 
 ### Publication
 DDet: Dual-Path Dynamic Enhancement Network for Real-World Image Super-Resolution
+
 *IEEE Signal Processing Letters, 2020*
+
 **Yukai SHI**, Haoyu Zhong, Xiaojun Yang, Zhijing Yang, Liang Lin.
 
 
