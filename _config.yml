@@ -18,7 +18,7 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-
+  analytics_id: "Yukai Shil 施煜锴; Computer Vision; Deep Learning; Sun Yat-sen University"
   # generate social links in footer
   social_links:
     # twitter: thelehhman
