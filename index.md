@@ -37,7 +37,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
   *IEEE Signal Processing Letters(**SPL**), 2020*. [[PDF]](https://arxiv.org/pdf/2002.11079.pdf) [[Code]](https://github.com/ykshi/DDet)
     
-  <span style="color:red"> *We found dynamic dual-way CNN bring a significant quality improvement over real-world image pairs*</span>
+  <span style="color:red"> *We found dynamic dual-way CNN brings a significant quality improvement over real-world image pairs*</span>
 
 ### 2019
 
