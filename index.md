@@ -27,7 +27,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
   Sen Zhang#, **Yukai SHI**, Chenxing Zhou, Xiaodan Liang, Liang Lin
 
-  *ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2020(Major Revision)*. 
+  *ACM Transactions on Intelligent Systems and Technology (**ACM T-IST**), 2020(Major Revision)*. 
 
   #indicates the author is my great kid
 
