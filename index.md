@@ -22,6 +22,14 @@ Email: ykshi.1991 AT foxmail DOT com
 
 ### 2020
 
+* Linguistic-Constrained Text Style Transfer with Graph-Transformer based Auto-Encoders
+
+
+  Sen Zhang, **Yukai SHI**, Chenxing Zhou, Xiaodan Liang, Liang Lin
+
+  *ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2020(Major Revision)*. 
+  
+
 * Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning
 
 
