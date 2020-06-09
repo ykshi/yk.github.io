@@ -29,7 +29,7 @@ Email: ykshi.1991 AT foxmail DOT com
 
   *ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2020(Major Revision)*. 
 
-  # indicates the author is my great kid
+  #indicates the author is my great kid
 
 * Face Hallucination by Attentive Sequence Optimization With Reinforcement Learning
 
